@@ -36,4 +36,5 @@ fields:
   label: Author
   default: Nichlas W. Andersen
 pages:
+- journal/how-to-build-a-website-without-code-nocode.md
 - journal/macos-development-environment.md
